@@ -40,7 +40,7 @@ Atualmente estou em transição para **Front-End Development**, aplicando minhas
 **Landing Page Portfolio** | Página pessoal responsiva com foco visual e UX | HTML, CSS, ReactJS | (https://github.com/juhmartins-04/portif-lio/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?juhmartins-04=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apijuhmartins-04anuraghazra&show_icons=true&theme=radical)
 ---
 
 📫 Contato
