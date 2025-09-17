@@ -41,14 +41,6 @@ Atualmente estou em transição para **Front-End Development**, aplicando minhas
 
 ---
 
-📈 GitHub Stats
-
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhmartins-04&show_icons=true&theme=radical&token=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)
-
-
-
----
-
 📫 Contato
 
 ✉️ **Email:** juliamsilva2000@gmail.com  
