@@ -40,7 +40,8 @@ Atualmente estou em transição para **Front-End Development**, aplicando minhas
 **Landing Page Portfolio** | Página pessoal responsiva com foco visual e UX | HTML, CSS, ReactJS | (https://github.com/juhmartins-04/portif-lio/)
 
 
-{GitHub stats](https://github-readme-stats.vercel.app/api?username=juhmartins-04&show_icons=true&theme=radical)
+{[Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhmartins-04&show_icons=true&theme=radical&token=SEU_TOKEN_AQUI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)  
+
 ---
 
 📫 Contato
