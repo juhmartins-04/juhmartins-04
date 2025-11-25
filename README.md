@@ -1,7 +1,7 @@
-# 👩‍💻 Júlia Martins
+# 👩‍💻 Julia Martins
 
-🇧🇷 Desenvolvedora Front-End Jr | ReactJS | UI/UX Designer em transição  
-🇺🇸 Front-End Developer Jr | ReactJS | UI/UX Designer in transition  
+🇧🇷 Desenvolvedora Front-End Jr  | UI/UX Designer em transição  
+🇺🇸 Front-End Developer Jr | UI/UX Designer in transition  
 
 🎯 Buscando oportunidades remotas ou híbridas (Júnior)  
 🌍 Aberta a vagas internacionais  
@@ -14,7 +14,7 @@ Sou profissional de TI com experiência em **Suporte Técnico, Desenvolvimento F
 Atualmente estou em transição para **Front-End Development**, aplicando minhas habilidades técnicas e criativas para criar **interfaces funcionais, responsivas e com foco em UX**.  
 
 - Graduanda em **Análise e Desenvolvimento de Sistemas (2024)**  
-- Experiência com: **HTML5, CSS3, JavaScript (ES6+), ReactJS, Node.js, Git, Figma**  
+- Experiência com: **HTML5, CSS3, JavaScript (ES6+), ReactJS, Wordpress, Git, Figma**  
 - Projetos focados em **usabilidade, performance, responsividade e integração com back-end**  
 
 ---
@@ -25,7 +25,7 @@ Atualmente estou em transição para **Front-End Development**, aplicando minhas
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![Node.js](https://img.shields.io/wordpress/plugin/:interval/:slug)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
@@ -48,5 +48,5 @@ Atualmente estou em transição para **Front-End Development**, aplicando minhas
 
 ✉️ **Email:** juliamsilva2000@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/julia-martinsdev](www.linkedin.com/in/julia-martinsdev)  
-📄 **Currículo:** Disponível em inglês e português  
+
 
