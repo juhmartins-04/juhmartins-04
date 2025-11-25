@@ -14,7 +14,7 @@ Sou profissional de TI com experiência em **Suporte Técnico, Desenvolvimento F
 Atualmente estou em transição para **Front-End Development**, aplicando minhas habilidades técnicas e criativas para criar **interfaces funcionais, responsivas e com foco em UX**.  
 
 - Graduanda em **Análise e Desenvolvimento de Sistemas (2024)**  
-- Experiência com: **HTML5, CSS3, JavaScript (ES6+), ReactJS, Wordpress, Git, Figma**  
+- Experiência com: **HTML5, CSS3, JavaScript, Wordpress, Git, Figma**  
 - Projetos focados em **usabilidade, performance, responsividade e integração com back-end**  
 
 ---
