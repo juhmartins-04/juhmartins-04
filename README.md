@@ -35,7 +35,7 @@ Atualmente estou em transição para **Front-End Development**, aplicando minhas
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
 | **DecorHelp - Sistema de Chamados** | Sistema interno de chamados com funcionalidades reais para organização de tarefas | WordPress, PHP, phpMyAdmin | (https://github.com/juhmartins-04/decorhelp-sistema-chamados)|
-| **Clima App** | Aplicativo de previsão do tempo consumindo API pública | JavaScript, HTML, CSS | ([https://github.com/juhmartins-04/clima( https://juhmartins-04.github.io/clima/)]
+| **Clima App** | Aplicativo de previsão do tempo consumindo API pública | JavaScript, HTML, CSS | (https://github.com/juhmartins-04/clima) GitHub Pages: https://juhmartins-04.github.io/clima/)
 **Landing Page Portfolio** | Página pessoal responsiva com foco visual e UX | HTML, CSS | (https://github.com/juhmartins-04/portif-lio/)
 
 
